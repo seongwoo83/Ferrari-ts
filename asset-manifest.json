@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc2aa366.css",
-    "main.js": "/static/js/main.5e5db233.js",
-    "static/js/787.b8ace823.chunk.js": "/static/js/787.b8ace823.chunk.js",
-    "static/media/Ferrari-SansMedium.woff2": "/static/media/Ferrari-SansMedium.ff0f5489032e177bcde6.woff2",
-    "static/media/Ferrari-SansRegular.woff2": "/static/media/Ferrari-SansRegular.e1ba6671900032511d0e.woff2",
-    "index.html": "/index.html",
-    "main.fc2aa366.css.map": "/static/css/main.fc2aa366.css.map",
-    "main.5e5db233.js.map": "/static/js/main.5e5db233.js.map",
-    "787.b8ace823.chunk.js.map": "/static/js/787.b8ace823.chunk.js.map"
+    "main.css": "/Ferrari-ts/static/css/main.0251966f.css",
+    "main.js": "/Ferrari-ts/static/js/main.04a93b45.js",
+    "static/js/787.b8ace823.chunk.js": "/Ferrari-ts/static/js/787.b8ace823.chunk.js",
+    "static/media/Ferrari-SansMedium.woff2": "/Ferrari-ts/static/media/Ferrari-SansMedium.ff0f5489032e177bcde6.woff2",
+    "static/media/Ferrari-SansRegular.woff2": "/Ferrari-ts/static/media/Ferrari-SansRegular.e1ba6671900032511d0e.woff2",
+    "index.html": "/Ferrari-ts/index.html",
+    "main.0251966f.css.map": "/Ferrari-ts/static/css/main.0251966f.css.map",
+    "main.04a93b45.js.map": "/Ferrari-ts/static/js/main.04a93b45.js.map",
+    "787.b8ace823.chunk.js.map": "/Ferrari-ts/static/js/787.b8ace823.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc2aa366.css",
-    "static/js/main.5e5db233.js"
+    "static/css/main.0251966f.css",
+    "static/js/main.04a93b45.js"
   ]
 }
