@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Ferrari-ts/static/css/main.72bf40f5.css",
-    "main.js": "/Ferrari-ts/static/js/main.dc924f04.js",
+    "main.css": "/Ferrari-ts/static/css/main.ddb6eedc.css",
+    "main.js": "/Ferrari-ts/static/js/main.74636da6.js",
     "static/js/787.b8ace823.chunk.js": "/Ferrari-ts/static/js/787.b8ace823.chunk.js",
     "static/media/Ferrari-SansMedium.woff2": "/Ferrari-ts/static/media/Ferrari-SansMedium.ff0f5489032e177bcde6.woff2",
     "static/media/Ferrari-SansRegular.woff2": "/Ferrari-ts/static/media/Ferrari-SansRegular.e1ba6671900032511d0e.woff2",
     "index.html": "/Ferrari-ts/index.html",
-    "main.72bf40f5.css.map": "/Ferrari-ts/static/css/main.72bf40f5.css.map",
-    "main.dc924f04.js.map": "/Ferrari-ts/static/js/main.dc924f04.js.map",
+    "main.ddb6eedc.css.map": "/Ferrari-ts/static/css/main.ddb6eedc.css.map",
+    "main.74636da6.js.map": "/Ferrari-ts/static/js/main.74636da6.js.map",
     "787.b8ace823.chunk.js.map": "/Ferrari-ts/static/js/787.b8ace823.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72bf40f5.css",
-    "static/js/main.dc924f04.js"
+    "static/css/main.ddb6eedc.css",
+    "static/js/main.74636da6.js"
   ]
 }
